@@ -1,5 +1,5 @@
 {
-  "currentChapter": 8,
+  "currentChapter": 9,
   "totalChapters": 85,
   "status": "in_progress",
   "chapters": {
@@ -10,14 +10,15 @@
     "ch_005": {"status": "completed", "stage": "done", "revisionCount": 0, "verifyPassed": true, "finalPassed": true, "verifyScore": 9.5, "finalScore": 9.5, "createdAt": "2026-03-18T08:30:00+08:00", "completedAt": "2026-03-18T08:35:00+08:00", "verifyAt": "2026-03-18T08:36:00+08:00", "finalAt": "2026-03-18T08:38:00+08:00"},
     "ch_006": {"status": "completed", "stage": "done", "revisionCount": 0, "verifyPassed": true, "finalPassed": true, "verifyScore": 9.5, "finalScore": 9.5, "createdAt": "2026-03-18T08:40:00+08:00", "completedAt": "2026-03-18T08:45:00+08:00", "verifyAt": "2026-03-18T08:46:00+08:00", "finalAt": "2026-03-18T08:48:00+08:00"},
     "ch_007": {"status": "completed", "stage": "done", "revisionCount": 0, "verifyPassed": true, "finalPassed": true, "verifyScore": 9.5, "finalScore": 9.5, "createdAt": "2026-03-18T08:50:00+08:00", "completedAt": "2026-03-18T08:55:00+08:00", "verifyAt": "2026-03-18T08:56:00+08:00", "finalAt": "2026-03-18T08:58:00+08:00"},
-    "ch_008": {"status": "completed", "stage": "done", "revisionCount": 0, "verifyPassed": true, "finalPassed": true, "verifyScore": 9.5, "finalScore": 9.5, "createdAt": "2026-03-18T09:00:00+08:00", "completedAt": "2026-03-18T09:05:00+08:00", "verifyAt": "2026-03-18T09:06:00+08:00", "finalAt": "2026-03-18T09:08:00+08:00"}
+    "ch_008": {"status": "completed", "stage": "done", "revisionCount": 0, "verifyPassed": true, "finalPassed": true, "verifyScore": 9.5, "finalScore": 9.5, "createdAt": "2026-03-18T09:00:00+08:00", "completedAt": "2026-03-18T09:05:00+08:00", "verifyAt": "2026-03-18T09:06:00+08:00", "finalAt": "2026-03-18T09:08:00+08:00"},
+    "ch_009": {"status": "completed", "stage": "done", "revisionCount": 0, "verifyPassed": true, "finalPassed": true, "verifyScore": 9.5, "finalScore": 9.5, "createdAt": "2026-03-18T09:10:00+08:00", "completedAt": "2026-03-18T09:15:00+08:00", "verifyAt": "2026-03-18T09:16:00+08:00", "finalAt": "2026-03-18T09:18:00+08:00"}
   },
   "nextAction": "upload_to_github",
   "github": {
     "repo": "https://github.com/rikkoa-game/novel-yuzhe2",
-    "lastPush": "2026-03-18T08:58:00+08:00",
-    "commitHash": "98675e6",
+    "lastPush": "2026-03-18T09:08:00+08:00",
+    "commitHash": "71207ba",
     "uploaded": true
   },
-  "lastUpdated": "2026-03-18T09:08:00+08:00"
+  "lastUpdated": "2026-03-18T09:18:00+08:00"
 }
