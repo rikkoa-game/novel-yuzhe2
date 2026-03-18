@@ -1,5 +1,5 @@
 {
-  "currentChapter": 2,
+  "currentChapter": 3,
   "totalChapters": 85,
   "status": "in_progress",
   "chapters": {
@@ -27,14 +27,27 @@
       "completedAt": "2026-03-18T07:50:00+08:00",
       "verifyAt": "2026-03-18T07:55:00+08:00",
       "finalAt": "2026-03-18T07:56:00+08:00"
+    },
+    "ch_003": {
+      "status": "completed",
+      "stage": "done",
+      "revisionCount": 0,
+      "verifyPassed": true,
+      "finalPassed": true,
+      "verifyScore": 9.5,
+      "finalScore": 9.5,
+      "createdAt": "2026-03-18T08:05:00+08:00",
+      "completedAt": "2026-03-18T08:10:00+08:00",
+      "verifyAt": "2026-03-18T08:12:00+08:00",
+      "finalAt": "2026-03-18T08:15:00+08:00"
     }
   },
-  "nextAction": "writing_chapter_3",
+  "nextAction": "upload_to_github",
   "github": {
     "repo": "https://github.com/rikkoa-game/novel-yuzhe2",
     "lastPush": "2026-03-18T08:00:00+08:00",
     "commitHash": "c43c728",
     "uploaded": true
   },
-  "lastUpdated": "2026-03-18T08:00:00+08:00"
+  "lastUpdated": "2026-03-18T08:15:00+08:00"
 }
